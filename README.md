@@ -10,7 +10,7 @@
 | 2. | Tugas Praktium 4 | [penjelasan](#TugasPraktikum-4) | 
 
 ## TugasLatihan 4
-![gambar output](isi%20foto/hasil%20latihan4.png)
+![gambar output](isi%20foto/latihan4.png)
 
 ## Hasil Source Code
 ```python
