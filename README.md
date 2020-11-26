@@ -121,7 +121,7 @@ for item in nilai:
 print("==================================================================")
 ```
 Berikut hasil dari program data mahasiswa 
-![gambar output](gambar/hasilpraktikum4.png)
+![gambar output](isi%20foto/hasil%20praktikum4.png)
 
 
 
